@@ -1,0 +1,46 @@
+#button1 {
+    border-style: solid;
+    border-color: green;
+    height: 30px;
+    width :170px;
+    text-align: center;
+    color:rgb(37, 162, 118) ;
+    font-family:unset; 
+    padding: 5px;
+    border-radius: 25px;
+
+
+}
+
+#button2 {
+  
+    background-color: rgb(75, 227, 227);
+    height: 30px;
+    width :30px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 5px;
+    font-family:'Courier New', Courier, monospace; 
+    font-size: 27px;
+    color: white;
+
+}
+
+
+
+
+
+
+
+#button3 {
+    border-style: solid;
+    background-color: rgb(42, 128, 215);
+    border-color: rgb(0, 0, 0);
+    height: 33px;
+    width :200px;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
